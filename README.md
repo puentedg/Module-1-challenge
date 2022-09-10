@@ -28,7 +28,7 @@ The client Horiseon Social Solution Services has requested to improve its access
 
 The updates weren't intent to make alterations to the original appearance, just the codes were adjusted according to the client's request.  
 
-![Horiseon's updated home page](assets/images/_Users_puentedg_bootcamp_bootcamp-AS_challenge-1_Module-1-challenge_index)
+![Horiseon's updated home page](assets/images/_Users_puentedg_bootcamp_bootcamp-AS_challenge-1_Module-1-challenge_index.html.png)
 
 
 ## Resources
